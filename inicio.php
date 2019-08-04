@@ -33,6 +33,9 @@ include('control/conexion.php');
     <?php
     }
     ?>
+
+    <P>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A architecto commodi dolorem enim hic in laudantium
+        nemo nisi nobis possimus? Deserunt dolore dolorum ea, eligendi harum molestiae placeat sunt. Quis!</P>
 </div>
 
 </body>
